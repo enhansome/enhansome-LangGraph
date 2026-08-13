@@ -1,0 +1,222 @@
+{
+  "items": [
+    {
+      "description": "The LangChain/Graph Ecosystem is a comprehensive suite of frameworks and platforms for building, deploying, and managing LLM-powered applications. While LangGraph can be used standalone, it integrates seamlessly with any LangChain product, giving developers a full suite of tools for building agents.",
+      "items": [],
+      "title": "🌐 What is the LangChain/Graph Ecosystem"
+    },
+    {
+      "description": "🔗 LangChain - Provides integrations and composable components to streamline LLM application development. Contains agent abstractions built on top of LangGraph.\n🕸️ LangGraph - The core framework for building stateful, multi-agent systems with complex workflows, collaboration, and memory management.\n🧠 Deep Agents - An agent harness for building agents that can plan, decompose complex tasks, use subagents, manage large context with filesystem tools, and persist long-term memory.\n🛠️ LangSmith - The platform layer for observing, evaluating, and deploying AI agents and LLM applications with tracing, prompt engineering, Agent Server deployment, sandboxes, and operational tooling.\n🧩 LangSmith Fleet - A no-code platform for creating and managing AI agents from templates, connecting apps and accounts, automating routine work, and keeping humans in control with approvals and oversight.\n🤝 LangChain Integrations & Partners - Third-party integrations and provider packages that extend LangChain's capabilities across the AI ecosystem. These integration packages provide standardized interfaces to work with popular AI services, databases, and tools.",
+      "items": [],
+      "title": "Ecosystem Components:"
+    },
+    {
+      "description": "LangChain is the foundational framework for building applications with Large Language Models (LLMs). It provides standardized interfaces, reusable components, and extensive integrations that enable developers to create sophisticated AI applications through composable building blocks.\nEssential building blocks and advanced capabilities for LangChain applications - from fundamental components to sophisticated AI features.",
+      "items": [],
+      "title": "🦜 LangChain 🔗"
+    },
+    {
+      "description": "Essential building blocks for LangChain applications",
+      "items": [],
+      "title": "Core Components"
+    },
+    {
+      "description": "Advanced capabilities and techniques for sophisticated AI applications\nAccess the official LangChain documentation across the current unified docs experience and legacy redirect URLs:\nAI-accessible documentation format for LLMs and IDEs - LangChain now exposes a unified entrypoint on for programmatic access to the latest documentation across LangChain, LangGraph, LangSmith, and API references.",
+      "items": [],
+      "title": "Advanced Usage"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Available Files"
+    },
+    {
+      "description": "LangGraph is an open-source framework for building AI agents and multi-agent systems as graphs, and is a core part of the LangChain Ecosystem. It focuses on agent orchestration, enabling sophisticated AI applications that can maintain state, coordinate multiple agents, and handle complex reasoning processes through graph-based workflows.\nAccess the official LangGraph documentation across the current unified open source docs:\nAI-accessible documentation format for LLMs and IDEs - LangGraph documentation is part of the unified docs experience, so the primary entrypoint is shared across the broader ecosystem docs.\n",
+      "items": [],
+      "title": "🦜 LangGraph 🕸️"
+    },
+    {
+      "description": "Deep Agents is an open-source agent harness for building agents that can plan, delegate to subagents, manage context with filesystem tools, and persist long-term memory for complex, multi-step tasks.\nAccess the official Deep Agents documentation across the current unified open source docs:\nAI-accessible documentation format for LLMs and IDEs - Deep Agents documentation is available through the same unified docs index used across the LangChain ecosystem.\n",
+      "items": [],
+      "title": "🧠 Deep Agents"
+    },
+    {
+      "description": "LangSmith is a framework-agnostic platform for building, debugging, evaluating, and deploying AI agents and LLM applications. It works with or without LangChain's open-source frameworks and brings observability, prompt engineering, deployment, and operational tooling into one workflow.\nAccess the official LangSmith platform documentation:\nAI-accessible documentation format for LLMs and IDEs - LangSmith is also covered by the unified docs index for programmatic access.\nIntegrates LangSmith tracing and observability directly into Claude Code workflows. Connect your Claude Code sessions to LangSmith to capture traces, monitor runs, and evaluate agent behavior from within your IDE.\n\n",
+      "items": [],
+      "title": "🦜 LangSmith 🛠️"
+    },
+    {
+      "description": "Examples of applications and tools built with the LangChain ecosystem, ranging from experimental projects to production-ready solutions that showcase different capabilities and use cases.",
+      "items": [],
+      "title": "🟢 Official LangGraph Projects 🦜"
+    },
+    {
+      "description": "Pre-built agent packages for specific use cases and interaction patterns:\nAdvanced agent for automating computer interactions and GUI tasks. Provides sophisticated screen interaction capabilities, click/type automation, and visual reasoning for complex desktop automation workflows.\nMulti-agent coordination system for distributed task execution. Enables dynamic task distribution and collective intelligence across multiple specialized agents working together on complex problems.\nAgent orchestration and workflow supervision system. Provides advanced multi-agent coordination, task delegation, and workflow management for complex hierarchical agent architectures.\nModel Context Protocol integration for LangChain agents. Provides tool compatibility and protocol bridging to seamlessly integrate Anthropic MCP tools with agent workflows.\nAdvanced memory management system for persistent agent learning. Enables memory management, experience replay, and adaptation for agents that learn and improve over time.\nLarge-scale tool management and optimization system. Provides advanced tool management and intelligent selection optimization for efficiently handling complex tool ecosystems.\nAdvanced agents for complex, long-term planning and execution. Features sophisticated planning tools, sub-agent orchestration, file system access, and detailed prompts for handling complex multi-step tasks.\nConfigurable deep research agent for automated research tasks. Performs comprehensive research across multiple sources with multi-model support, MCP compatibility, and evaluation benchmarks. Achieves performance comparable to popular research agents on Deep Research Bench leaderboard.",
+      "items": [],
+      "title": "🟩 Specialized Agent Libraries 🤖"
+    },
+    {
+      "description": "Complete application examples showcasing different patterns and use cases:\nManaged RAG service with FastAPI and PostgreSQL/pgvector integration. Features document collection management, semantic search, and Docker deployment support for production-ready RAG applications.\nDocumentation assistant powered by RAG-based semantic search with intelligent query analysis. Features automated content indexing, duplicate prevention, GenUI, and sophisticated document tracking system.\nCentralized interface for AI agent interactions featuring real-time communication. Includes interrupt handling and configurable response systems for both local and cloud deployments.\nAll-in-one chatbot template combining React-style agents with modern UI. Built with FastHTML components and Claude 3, featuring single-deployment architecture and extensible tools.\nNext.js starter template showcasing LangChain.js modules. Includes streaming chat, structured output, multi-step agents, and RAG implementations with Vercel AI SDK integration.\nResearch and podcast generation workflow using LangGraph with Gemini 2.5 model family. Features video understanding, Google search integration, and multi-speaker text-to-speech for creating comprehensive research reports and audio podcasts.\nNext.js interface for Deep Agents with streaming support and LangGraph Platform integration. Generic AI agents capable of handling tasks of varying complexity with customizable UI components.\nA Generative UI web app for interacting with Computer Use Agents (CUA). Uses the prebuilt package and features a modern interface for computer automation and task management.\nGenerates Twitter & LinkedIn posts from URLs with optional human review. Features content analysis, platform-specific formatting, and approval workflows for social media content creation.\nOpen-source asynchronous coding agent built on LangGraph for long-running, autonomous software engineering tasks. Supports Anthropic and OpenAI models and is designed for complex, multi-step code generation and modification workflows.",
+      "items": [],
+      "title": "🟩 Apps & Agents 📱"
+    },
+    {
+      "description": "Development tools for building, visualizing, and deploying LangGraph applications:\nAutomated code generation tool for LangGraph projects. Converts YAML configurations to working code, provides project scaffolding, and automates boilerplate creation for rapid development.",
+      "items": [],
+      "title": "🟩 Development Tools 🛠️"
+    },
+    {
+      "description": "Discover amazing open-source projects and innovative tools built by the community using the LangGraph ecosystem. These projects showcase real-world applications across diverse domains and use cases, demonstrating the versatility and power of LangGraph and LangChain frameworks.",
+      "items": [],
+      "title": "🌟 Community Projects"
+    },
+    {
+      "description": "Healthcare, medical diagnosis, genomic research, and scientific research agents",
+      "items": [],
+      "title": "🧬 Bio & Health"
+    },
+    {
+      "description": "Browser control, web task automation, and data extraction",
+      "items": [],
+      "title": "🌐 Web Automation & Scraping"
+    },
+    {
+      "description": "Business analysis, market research, and strategic intelligence tools",
+      "items": [],
+      "title": "📊 Business Intelligence & Market Research"
+    },
+    {
+      "description": "Frontend applications, chat interfaces, and graphical user interfaces for AI agents",
+      "items": [],
+      "title": "🖥️ Chat Interfaces & GUIs"
+    },
+    {
+      "description": "Cloud infrastructure management, deployment automation, and cloud resource management",
+      "items": [],
+      "title": "☁️ Cloud & DevOps"
+    },
+    {
+      "description": "AI agents specifically designed for software development, code generation, and programming assistance",
+      "items": [],
+      "title": "🤖 Coding/Dev Agents"
+    },
+    {
+      "description": "Customer support, CRM systems, service management, and customer interaction automation",
+      "items": [],
+      "title": "🛎️ Customer Ops"
+    },
+    {
+      "description": "Data analysis, visualization, business intelligence, and data processing agents",
+      "items": [],
+      "title": "📊 Data Platforms"
+    },
+    {
+      "description": "Machine learning, statistical analysis, and data science workflow automation",
+      "items": [],
+      "title": "🧮 Data Science"
+    },
+    {
+      "description": "Development frameworks, toolkits, and development infrastructure",
+      "items": [],
+      "title": "🛠️ Developer Tools"
+    },
+    {
+      "description": "Installable packages and libraries for extending LangGraph workflows",
+      "items": [],
+      "title": "📦 Packages"
+    },
+    {
+      "description": "Financial analysis, trading, banking, investment research, and business intelligence",
+      "items": [],
+      "title": "💰 Finance & Fintech"
+    },
+    {
+      "description": "Marketing analysis, content strategy, and promotional automation\nNo active community listings currently.",
+      "items": [],
+      "title": "🎯 Marketing"
+    },
+    {
+      "description": "Content creation, media processing, podcasts, multimedia generation, and voice processing",
+      "items": [],
+      "title": "🎥 Media & Podcasts"
+    },
+    {
+      "description": "Robotics applications, embodied AI, and physical world interaction",
+      "items": [],
+      "title": "🤖 Robotics & Embodied AI"
+    },
+    {
+      "description": "Retrieval-Augmented Generation, document chatbots, and knowledge base systems",
+      "items": [],
+      "title": "📚 RAG & Document Processing"
+    },
+    {
+      "description": "AI research assistants, academic tools, and automated research workflows",
+      "items": [],
+      "title": "🔬 Research Agents"
+    },
+    {
+      "description": "Security testing, red-team automation, adversary emulation, and defensive validation agents",
+      "items": [],
+      "title": "🛠️ Cybersecurity"
+    },
+    {
+      "description": "Action verification, provenance tracking, fail-closed mechanisms, prompt injection protection",
+      "items": [],
+      "title": "🌍 Security & Governance"
+    },
+    {
+      "description": "Environmental impact, green technology, and sustainability analysis\nNo active community listings currently.",
+      "items": [],
+      "title": "🌍 Sustainability"
+    },
+    {
+      "description": "Ready-to-use project templates, boilerplates, and starter kits for building LangGraph applications",
+      "items": [],
+      "title": "📋 Templates & Starters"
+    },
+    {
+      "description": "Office automation, productivity tools, and workplace management",
+      "items": [],
+      "title": "🏢 Workplace & Productivity"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📚 Learning Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Official — LangChain Academy"
+    },
+    {
+      "description": "A compact list of tutorials, workshops, blogs, and case studies you can keep growing over time.",
+      "items": [],
+      "title": "📖 Additional Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "👥 Communities"
+    },
+    {
+      "description": "We welcome additions and fixes! Please read the Contributing Guide for the submission process, formatting rules, and category guidelines before opening an issue or pull request.",
+      "items": [],
+      "title": "🤝 Contributing"
+    },
+    {
+      "description": "Special thanks to the @langchain-ai team for building an outstanding framework and ecosystem that enables developers to create powerful AI applications.",
+      "items": [],
+      "title": "🙏 Acknowledgments"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T20:17:59.007Z",
+    "original_repository": "vonzosten/awesome-LangGraph",
+    "original_repository_sha": "68509d7485a280eea0e638ef86428dd9a61fbea1",
+    "enhanced_repository": "enhansome/enhansome-LangGraph",
+    "enhanced_repository_description": null,
+    "title": "🦜🕸️ Awesome LangGraph & LangChain Ecosystem with stars"
+  }
+}
