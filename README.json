@@ -12,10 +12,10 @@
             "archived": false,
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-25T03:51:56Z",
+            "last_commit": "2026-08-25T17:43:07Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144933
+            "stars": 144973
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 598342280,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T21:58:41Z",
+            "last_commit": "2026-08-25T19:19:42Z",
             "owner": "langchain-ai",
             "repo": "langchainjs",
-            "stars": 18133
+            "stars": 18135
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-25T03:51:56Z",
+            "last_commit": "2026-08-25T17:43:07Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144933
+            "stars": 144973
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 598342280,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T21:58:41Z",
+            "last_commit": "2026-08-25T19:19:42Z",
             "owner": "langchain-ai",
             "repo": "langchainjs",
-            "stars": 18133
+            "stars": 18135
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-25T03:51:56Z",
+            "last_commit": "2026-08-25T17:43:07Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144933
+            "stars": 144973
           }
         },
         {
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 598342280,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T21:58:41Z",
+            "last_commit": "2026-08-25T19:19:42Z",
             "owner": "langchain-ai",
             "repo": "langchainjs",
-            "stars": 18133
+            "stars": 18135
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-17T15:29:12Z",
             "owner": "langchain-ai",
             "repo": "langchain-mcp-adapters",
-            "stars": 3639
+            "stars": 3640
           }
         },
         {
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-25T03:51:56Z",
+            "last_commit": "2026-08-25T17:43:07Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144933
+            "stars": 144973
           }
         },
         {
@@ -132,10 +132,10 @@
             "archived": false,
             "id": 598342280,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T21:58:41Z",
+            "last_commit": "2026-08-25T19:19:42Z",
             "owner": "langchain-ai",
             "repo": "langchainjs",
-            "stars": 18133
+            "stars": 18135
           }
         },
         {
@@ -147,10 +147,10 @@
             "archived": false,
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-25T03:51:56Z",
+            "last_commit": "2026-08-25T17:43:07Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144933
+            "stars": 144973
           }
         },
         {
@@ -162,10 +162,10 @@
             "archived": false,
             "id": 598342280,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T21:58:41Z",
+            "last_commit": "2026-08-25T19:19:42Z",
             "owner": "langchain-ai",
             "repo": "langchainjs",
-            "stars": 18133
+            "stars": 18135
           }
         },
         {
@@ -177,10 +177,10 @@
             "archived": false,
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-25T03:51:56Z",
+            "last_commit": "2026-08-25T17:43:07Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144933
+            "stars": 144973
           }
         },
         {
@@ -192,10 +192,10 @@
             "archived": false,
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-25T03:51:56Z",
+            "last_commit": "2026-08-25T17:43:07Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144933
+            "stars": 144973
           }
         }
       ],
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-24T21:45:59Z",
             "owner": "langchain-ai",
             "repo": "langgraph",
-            "stars": 40397
+            "stars": 40437
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2026-08-24T21:44:02Z",
             "owner": "langchain-ai",
             "repo": "langgraphjs",
-            "stars": 3231
+            "stars": 3235
           }
         },
         {
@@ -246,7 +246,7 @@
             "last_commit": "2026-08-24T21:45:59Z",
             "owner": "langchain-ai",
             "repo": "langgraph",
-            "stars": 40397
+            "stars": 40437
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2026-08-24T21:44:02Z",
             "owner": "langchain-ai",
             "repo": "langgraphjs",
-            "stars": 3231
+            "stars": 3235
           }
         }
       ],
@@ -279,7 +279,7 @@
             "archived": false,
             "id": 647427819,
             "language": "Python",
-            "last_commit": "2026-08-25T00:42:45Z",
+            "last_commit": "2026-08-25T17:56:48Z",
             "owner": "langchain-ai",
             "repo": "langsmith-sdk",
             "stars": 1034
@@ -339,7 +339,7 @@
             "last_commit": "2026-08-24T21:44:02Z",
             "owner": "langchain-ai",
             "repo": "langgraphjs",
-            "stars": 3231
+            "stars": 3235
           }
         }
       ],
@@ -375,7 +375,7 @@
             "last_commit": "2026-08-24T21:44:02Z",
             "owner": "langchain-ai",
             "repo": "langgraphjs",
-            "stars": 3231
+            "stars": 3235
           }
         }
       ],
@@ -411,7 +411,7 @@
             "last_commit": "2026-08-24T21:44:02Z",
             "owner": "langchain-ai",
             "repo": "langgraphjs",
-            "stars": 3231
+            "stars": 3235
           }
         }
       ],
@@ -432,7 +432,7 @@
             "last_commit": "2026-08-17T15:29:12Z",
             "owner": "langchain-ai",
             "repo": "langchain-mcp-adapters",
-            "stars": 3639
+            "stars": 3640
           }
         }
       ],
@@ -492,10 +492,10 @@
             "archived": false,
             "id": 1027384981,
             "language": "Python",
-            "last_commit": "2026-08-25T02:49:42Z",
+            "last_commit": "2026-08-25T19:57:39Z",
             "owner": "langchain-ai",
             "repo": "deepagents",
-            "stars": 28400
+            "stars": 28456
           }
         }
       ],
@@ -537,7 +537,7 @@
             "last_commit": "2026-08-10T17:58:51Z",
             "owner": "langchain-ai",
             "repo": "langconnect",
-            "stars": 343
+            "stars": 344
           }
         }
       ],
@@ -579,7 +579,7 @@
             "last_commit": "2026-08-24T05:52:54Z",
             "owner": "langchain-ai",
             "repo": "agent-inbox",
-            "stars": 1077
+            "stars": 1078
           }
         }
       ],
@@ -621,7 +621,7 @@
             "last_commit": "2026-08-24T09:32:51Z",
             "owner": "langchain-ai",
             "repo": "langchain-nextjs-template",
-            "stars": 2518
+            "stars": 2519
           }
         }
       ],
@@ -705,7 +705,7 @@
             "last_commit": "2026-08-24T05:50:44Z",
             "owner": "langchain-ai",
             "repo": "social-media-agent",
-            "stars": 2750
+            "stars": 2752
           }
         }
       ],
@@ -723,10 +723,10 @@
             "archived": false,
             "id": 987975584,
             "language": "Python",
-            "last_commit": "2026-08-25T03:45:38Z",
+            "last_commit": "2026-08-25T18:39:10Z",
             "owner": "langchain-ai",
             "repo": "open-swe",
-            "stars": 10612
+            "stars": 10611
           }
         }
       ],
@@ -822,7 +822,7 @@
                 "last_commit": "2026-08-25T02:37:35Z",
                 "owner": "browser-use",
                 "repo": "browser-use",
-                "stars": 110408
+                "stars": 110506
               }
             },
             {
@@ -923,10 +923,10 @@
                 "archived": false,
                 "id": 1185745318,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T03:40:50Z",
+                "last_commit": "2026-08-25T17:49:31Z",
                 "owner": "cacheplane",
                 "repo": "angular-agent-framework",
-                "stars": 78
+                "stars": 70
               }
             },
             {
@@ -1283,7 +1283,7 @@
                 "last_commit": "2026-08-23T21:08:25Z",
                 "owner": "JoshuaC215",
                 "repo": "agent-service-toolkit",
-                "stars": 4436
+                "stars": 4437
               }
             },
             {
@@ -1310,10 +1310,10 @@
                 "archived": false,
                 "id": 812044182,
                 "language": "Go",
-                "last_commit": "2026-08-25T05:14:28Z",
+                "last_commit": "2026-08-25T19:35:40Z",
                 "owner": "googleapis",
                 "repo": "mcp-toolbox",
-                "stars": 16250
+                "stars": 16255
               }
             },
             {
@@ -1610,10 +1610,10 @@
                 "archived": false,
                 "id": 1129940957,
                 "language": "Python",
-                "last_commit": "2026-08-24T11:04:33Z",
+                "last_commit": "2026-08-25T18:25:41Z",
                 "owner": "headroomlabs-ai",
                 "repo": "headroom",
-                "stars": 67470
+                "stars": 67561
               }
             },
             {
@@ -1650,7 +1650,7 @@
                 "last_commit": "2026-08-07T17:21:58Z",
                 "owner": "virattt",
                 "repo": "ai-hedge-fund",
-                "stars": 63034
+                "stars": 63043
               }
             },
             {
@@ -1732,7 +1732,7 @@
                 "last_commit": "2026-05-04T14:49:10Z",
                 "owner": "souzatharsis",
                 "repo": "podcastfy",
-                "stars": 6519
+                "stars": 6520
               }
             },
             {
@@ -1821,7 +1821,7 @@
                 "last_commit": "2026-07-25T11:33:02Z",
                 "owner": "GiovanniPasq",
                 "repo": "agentic-rag-for-dummies",
-                "stars": 3965
+                "stars": 3966
               }
             },
             {
@@ -1851,7 +1851,7 @@
                 "last_commit": "2025-05-12T13:32:42Z",
                 "owner": "IlyaRice",
                 "repo": "RAG-Challenge-2",
-                "stars": 2430
+                "stars": 2431
               }
             },
             {
@@ -1945,10 +1945,10 @@
                 "archived": false,
                 "id": 979115477,
                 "language": "Python",
-                "last_commit": "2026-08-25T02:00:32Z",
+                "last_commit": "2026-08-25T12:15:08Z",
                 "owner": "bytedance",
                 "repo": "deer-flow",
-                "stars": 80818
+                "stars": 80869
               }
             },
             {
@@ -1975,10 +1975,10 @@
                 "archived": false,
                 "id": 835975784,
                 "language": "Python",
-                "last_commit": "2026-08-24T20:59:25Z",
+                "last_commit": "2026-08-25T15:25:38Z",
                 "owner": "MODSetter",
                 "repo": "SurfSense",
-                "stars": 16005
+                "stars": 16008
               }
             },
             {
@@ -1993,7 +1993,7 @@
                 "last_commit": "2026-07-02T11:16:27Z",
                 "owner": "Intelligent-Internet",
                 "repo": "ii-researcher",
-                "stars": 500
+                "stars": 501
               }
             },
             {
@@ -2035,10 +2035,10 @@
                 "archived": false,
                 "id": 929868765,
                 "language": "Python",
-                "last_commit": "2026-08-25T05:56:55Z",
+                "last_commit": "2026-08-25T19:49:31Z",
                 "owner": "LearningCircuit",
                 "repo": "local-deep-research",
-                "stars": 8985
+                "stars": 8988
               }
             },
             {
@@ -2053,7 +2053,7 @@
                 "last_commit": "2026-08-24T06:58:46Z",
                 "owner": "assafelovic",
                 "repo": "gpt-researcher",
-                "stars": 29141
+                "stars": 29148
               }
             },
             {
@@ -2068,7 +2068,7 @@
                 "last_commit": "2025-09-28T05:36:54Z",
                 "owner": "Just-Curieous",
                 "repo": "Curie",
-                "stars": 370
+                "stars": 371
               }
             },
             {
@@ -2113,7 +2113,7 @@
                 "last_commit": "2026-08-04T11:50:56Z",
                 "owner": "microsoft",
                 "repo": "RD-Agent",
-                "stars": 14331
+                "stars": 14335
               }
             },
             {
@@ -2195,7 +2195,7 @@
                 "last_commit": "2026-08-17T22:24:37Z",
                 "owner": "PurpleAILAB",
                 "repo": "Decepticon",
-                "stars": 5321
+                "stars": 5327
               }
             }
           ],
@@ -2299,7 +2299,7 @@
                 "last_commit": "2026-08-16T17:35:22Z",
                 "owner": "wassim249",
                 "repo": "fastapi-langgraph-agent-production-ready-template",
-                "stars": 2611
+                "stars": 2612
               }
             },
             {
@@ -2423,7 +2423,7 @@
                 "archived": false,
                 "id": 1223169069,
                 "language": "Python",
-                "last_commit": "2026-08-23T04:40:10Z",
+                "last_commit": "2026-08-25T15:53:04Z",
                 "owner": "tam159",
                 "repo": "next-role",
                 "stars": 48
@@ -2486,7 +2486,7 @@
                 "last_commit": "2026-08-02T01:55:40Z",
                 "owner": "khoj-ai",
                 "repo": "khoj",
-                "stars": 36708
+                "stars": 36716
               }
             },
             {
@@ -2513,10 +2513,10 @@
                 "archived": false,
                 "id": 944080744,
                 "language": "Python",
-                "last_commit": "2026-08-25T05:38:25Z",
+                "last_commit": "2026-08-25T19:58:51Z",
                 "owner": "pipeshub-ai",
                 "repo": "pipeshub-ai",
-                "stars": 3679
+                "stars": 3682
               }
             }
           ],
@@ -2563,7 +2563,7 @@
             "last_commit": "2026-08-19T19:37:06Z",
             "owner": "NirDiamant",
             "repo": "GenAI_Agents",
-            "stars": 23971
+            "stars": 23983
           }
         },
         {
@@ -2578,7 +2578,7 @@
             "last_commit": "2026-08-24T06:24:56Z",
             "owner": "genieincodebottle",
             "repo": "generative-ai",
-            "stars": 2607
+            "stars": 2609
           }
         }
       ],
@@ -2599,7 +2599,7 @@
             "last_commit": "2026-08-19T19:37:03Z",
             "owner": "NirDiamant",
             "repo": "RAG_Techniques",
-            "stars": 29204
+            "stars": 29216
           }
         },
         {
@@ -2643,7 +2643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:58:01.301Z",
+    "last_updated": "2026-08-25T19:59:36.357Z",
     "original_repository": "vonzosten/awesome-LangGraph",
     "original_repository_id": 882354535,
     "original_repository_sha": "68509d7485a280eea0e638ef86428dd9a61fbea1",
