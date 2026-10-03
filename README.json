@@ -1,1273 +1,1341 @@
 {
   "items": [
     {
-      "description": null,
+      "description": "LangChain is the foundational framework for building applications with Large Language Models (LLMs). It provides standardized interfaces, reusable components, and extensive integrations that enable developers to create sophisticated AI applications through composable building blocks.",
       "items": [
         {
-          "node_type": "item",
-          "title": "langchain",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "langchain",
+              "description": "langchain-ai/langchain",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The agent engineering platform.",
+                "homepage": "https://docs.langchain.com/langchain/",
+                "id": 552661142,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-02T22:57:27Z",
+                "open_issues": 606,
+                "owner": "langchain-ai",
+                "repo": "langchain",
+                "stars": 147391,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "ai-agents",
+                  "anthropic",
+                  "chatgpt",
+                  "deepagents",
+                  "enterprise",
+                  "framework",
+                  "gemini",
+                  "generative-ai",
+                  "langchain",
+                  "langgraph",
+                  "llm",
+                  "multiagent",
+                  "open-source",
+                  "openai",
+                  "pydantic",
+                  "python",
+                  "rag",
+                  "typescript"
+                ]
+              },
+              "first_seen": "2026-08-29T02:26:30.668Z"
+            },
+            {
+              "node_type": "item",
+              "title": "langchainjs",
+              "description": "langchain-ai/langchainjs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The agent engineering platform",
+                "homepage": "https://docs.langchain.com/langchain/",
+                "id": 598342280,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-10-03T01:41:53Z",
+                "open_issues": 638,
+                "owner": "langchain-ai",
+                "repo": "langchainjs",
+                "stars": 18245,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T02:26:30.668Z"
+            },
+            {
+              "node_type": "item",
+              "title": "langchain",
+              "description": "langchain-ai/langchain",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The agent engineering platform.",
+                "homepage": "https://docs.langchain.com/langchain/",
+                "id": 552661142,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-02T22:57:27Z",
+                "open_issues": 606,
+                "owner": "langchain-ai",
+                "repo": "langchain",
+                "stars": 147391,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "ai-agents",
+                  "anthropic",
+                  "chatgpt",
+                  "deepagents",
+                  "enterprise",
+                  "framework",
+                  "gemini",
+                  "generative-ai",
+                  "langchain",
+                  "langgraph",
+                  "llm",
+                  "multiagent",
+                  "open-source",
+                  "openai",
+                  "pydantic",
+                  "python",
+                  "rag",
+                  "typescript"
+                ]
+              },
+              "first_seen": "2026-08-29T02:26:30.668Z"
+            },
+            {
+              "node_type": "item",
+              "title": "langchainjs",
+              "description": "langchain-ai/langchainjs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The agent engineering platform",
+                "homepage": "https://docs.langchain.com/langchain/",
+                "id": 598342280,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-10-03T01:41:53Z",
+                "open_issues": 638,
+                "owner": "langchain-ai",
+                "repo": "langchainjs",
+                "stars": 18245,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T02:26:30.668Z"
+            },
+            {
+              "node_type": "item",
+              "title": "langchain",
+              "description": "langchain-ai/langchain",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The agent engineering platform.",
+                "homepage": "https://docs.langchain.com/langchain/",
+                "id": 552661142,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-02T22:57:27Z",
+                "open_issues": 606,
+                "owner": "langchain-ai",
+                "repo": "langchain",
+                "stars": 147391,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "ai-agents",
+                  "anthropic",
+                  "chatgpt",
+                  "deepagents",
+                  "enterprise",
+                  "framework",
+                  "gemini",
+                  "generative-ai",
+                  "langchain",
+                  "langgraph",
+                  "llm",
+                  "multiagent",
+                  "open-source",
+                  "openai",
+                  "pydantic",
+                  "python",
+                  "rag",
+                  "typescript"
+                ]
+              },
+              "first_seen": "2026-08-29T02:26:30.668Z"
+            },
+            {
+              "node_type": "item",
+              "title": "langchainjs",
+              "description": "langchain-ai/langchainjs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The agent engineering platform",
+                "homepage": "https://docs.langchain.com/langchain/",
+                "id": 598342280,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-10-03T01:41:53Z",
+                "open_issues": 638,
+                "owner": "langchain-ai",
+                "repo": "langchainjs",
+                "stars": 18245,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T02:26:30.668Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MCP Adapters",
+              "description": "- Make Anthropic MCP tools compatible with agents",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "LangChain 🔌 MCP",
+                "homepage": "https://docs.langchain.com/oss/python/langchain/mcp",
+                "id": 929158279,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-16T03:16:07Z",
+                "open_issues": 0,
+                "owner": "langchain-ai",
+                "repo": "langchain-mcp-adapters",
+                "stars": 3655,
+                "topics": [
+                  "langchain",
+                  "langgraph",
+                  "mcp",
+                  "python",
+                  "tools"
+                ]
+              },
+              "first_seen": "2026-08-29T02:26:30.668Z"
+            },
+            {
+              "node_type": "item",
+              "title": "langchain",
+              "description": "langchain-ai/langchain",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The agent engineering platform.",
+                "homepage": "https://docs.langchain.com/langchain/",
+                "id": 552661142,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-02T22:57:27Z",
+                "open_issues": 606,
+                "owner": "langchain-ai",
+                "repo": "langchain",
+                "stars": 147391,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "ai-agents",
+                  "anthropic",
+                  "chatgpt",
+                  "deepagents",
+                  "enterprise",
+                  "framework",
+                  "gemini",
+                  "generative-ai",
+                  "langchain",
+                  "langgraph",
+                  "llm",
+                  "multiagent",
+                  "open-source",
+                  "openai",
+                  "pydantic",
+                  "python",
+                  "rag",
+                  "typescript"
+                ]
+              },
+              "first_seen": "2026-08-29T02:26:30.668Z"
+            },
+            {
+              "node_type": "item",
+              "title": "langchainjs",
+              "description": "langchain-ai/langchainjs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The agent engineering platform",
+                "homepage": "https://docs.langchain.com/langchain/",
+                "id": 598342280,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-10-03T01:41:53Z",
+                "open_issues": 638,
+                "owner": "langchain-ai",
+                "repo": "langchainjs",
+                "stars": 18245,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T02:26:30.668Z"
+            },
+            {
+              "node_type": "item",
+              "title": "langchain",
+              "description": "langchain-ai/langchain",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The agent engineering platform.",
+                "homepage": "https://docs.langchain.com/langchain/",
+                "id": 552661142,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-02T22:57:27Z",
+                "open_issues": 606,
+                "owner": "langchain-ai",
+                "repo": "langchain",
+                "stars": 147391,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "ai-agents",
+                  "anthropic",
+                  "chatgpt",
+                  "deepagents",
+                  "enterprise",
+                  "framework",
+                  "gemini",
+                  "generative-ai",
+                  "langchain",
+                  "langgraph",
+                  "llm",
+                  "multiagent",
+                  "open-source",
+                  "openai",
+                  "pydantic",
+                  "python",
+                  "rag",
+                  "typescript"
+                ]
+              },
+              "first_seen": "2026-08-29T02:26:30.668Z"
+            },
+            {
+              "node_type": "item",
+              "title": "langchainjs",
+              "description": "langchain-ai/langchainjs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The agent engineering platform",
+                "homepage": "https://docs.langchain.com/langchain/",
+                "id": 598342280,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-10-03T01:41:53Z",
+                "open_issues": 638,
+                "owner": "langchain-ai",
+                "repo": "langchainjs",
+                "stars": 18245,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T02:26:30.668Z"
+            },
+            {
+              "node_type": "item",
+              "title": "CLI Tools",
+              "description": "- Command line interface for project management",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The agent engineering platform.",
+                "homepage": "https://docs.langchain.com/langchain/",
+                "id": 552661142,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-02T22:57:27Z",
+                "open_issues": 606,
+                "owner": "langchain-ai",
+                "repo": "langchain",
+                "stars": 147391,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "ai-agents",
+                  "anthropic",
+                  "chatgpt",
+                  "deepagents",
+                  "enterprise",
+                  "framework",
+                  "gemini",
+                  "generative-ai",
+                  "langchain",
+                  "langgraph",
+                  "llm",
+                  "multiagent",
+                  "open-source",
+                  "openai",
+                  "pydantic",
+                  "python",
+                  "rag",
+                  "typescript"
+                ]
+              },
+              "first_seen": "2026-08-29T02:26:30.668Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Legacy",
+              "description": "- Legacy components from pre-v1.0 (Python only)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The agent engineering platform.",
+                "homepage": "https://docs.langchain.com/langchain/",
+                "id": 552661142,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-02T22:57:27Z",
+                "open_issues": 606,
+                "owner": "langchain-ai",
+                "repo": "langchain",
+                "stars": 147391,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "ai-agents",
+                  "anthropic",
+                  "chatgpt",
+                  "deepagents",
+                  "enterprise",
+                  "framework",
+                  "gemini",
+                  "generative-ai",
+                  "langchain",
+                  "langgraph",
+                  "llm",
+                  "multiagent",
+                  "open-source",
+                  "openai",
+                  "pydantic",
+                  "python",
+                  "rag",
+                  "typescript"
+                ]
+              },
+              "first_seen": "2026-08-29T02:26:30.668Z"
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The agent engineering platform.",
-            "homepage": "https://docs.langchain.com/langchain/",
-            "id": 552661142,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-02T22:57:27Z",
-            "open_issues": 605,
-            "owner": "langchain-ai",
-            "repo": "langchain",
-            "stars": 147388,
-            "topics": [
-              "agents",
-              "ai",
-              "ai-agents",
-              "anthropic",
-              "chatgpt",
-              "deepagents",
-              "enterprise",
-              "framework",
-              "gemini",
-              "generative-ai",
-              "langchain",
-              "langgraph",
-              "llm",
-              "multiagent",
-              "open-source",
-              "openai",
-              "pydantic",
-              "python",
-              "rag",
-              "typescript"
-            ]
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
+          "node_type": "group",
+          "title": "▫️ LangChain Libraries ▫️"
+        }
+      ],
+      "title": "🦜 LangChain 🔗"
+    },
+    {
+      "description": "LangGraph is an open-source framework for building AI agents and multi-agent systems as graphs, and is a core part of the LangChain Ecosystem. It focuses on agent orchestration, enabling sophisticated AI applications that can maintain state, coordinate multiple agents, and handle complex reasoning processes through graph-based workflows.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "langgraph",
+              "description": "langchain-ai/langgraph",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Build resilient agents.",
+                "homepage": "https://docs.langchain.com/oss/python/langgraph/",
+                "id": 676672661,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-03T02:08:21Z",
+                "open_issues": 819,
+                "owner": "langchain-ai",
+                "repo": "langgraph",
+                "stars": 42641,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "ai-agents",
+                  "chatgpt",
+                  "deepagents",
+                  "enterprise",
+                  "framework",
+                  "gemini",
+                  "generative-ai",
+                  "langchain",
+                  "langgraph",
+                  "llm",
+                  "multiagent",
+                  "open-source",
+                  "openai",
+                  "pydantic",
+                  "python",
+                  "rag"
+                ]
+              },
+              "first_seen": "2026-08-29T02:26:30.668Z"
+            },
+            {
+              "node_type": "item",
+              "title": "langgraphjs",
+              "description": "langchain-ai/langgraphjs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Framework to build resilient language agents as graphs.",
+                "homepage": "https://docs.langchain.com/oss/javascript/langgraph/",
+                "id": 741100585,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-10-02T22:55:11Z",
+                "open_issues": 198,
+                "owner": "langchain-ai",
+                "repo": "langgraphjs",
+                "stars": 3332,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "artificial-intelligence",
+                  "generative-ai",
+                  "llm",
+                  "node",
+                  "typescript"
+                ]
+              },
+              "first_seen": "2026-08-29T02:26:30.668Z"
+            },
+            {
+              "node_type": "item",
+              "title": "langgraph",
+              "description": "langchain-ai/langgraph",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Build resilient agents.",
+                "homepage": "https://docs.langchain.com/oss/python/langgraph/",
+                "id": 676672661,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-03T02:08:21Z",
+                "open_issues": 819,
+                "owner": "langchain-ai",
+                "repo": "langgraph",
+                "stars": 42641,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "ai-agents",
+                  "chatgpt",
+                  "deepagents",
+                  "enterprise",
+                  "framework",
+                  "gemini",
+                  "generative-ai",
+                  "langchain",
+                  "langgraph",
+                  "llm",
+                  "multiagent",
+                  "open-source",
+                  "openai",
+                  "pydantic",
+                  "python",
+                  "rag"
+                ]
+              },
+              "first_seen": "2026-08-29T02:26:30.668Z"
+            },
+            {
+              "node_type": "item",
+              "title": "langgraphjs",
+              "description": "langchain-ai/langgraphjs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Framework to build resilient language agents as graphs.",
+                "homepage": "https://docs.langchain.com/oss/javascript/langgraph/",
+                "id": 741100585,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-10-02T22:55:11Z",
+                "open_issues": 198,
+                "owner": "langchain-ai",
+                "repo": "langgraphjs",
+                "stars": 3332,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "artificial-intelligence",
+                  "generative-ai",
+                  "llm",
+                  "node",
+                  "typescript"
+                ]
+              },
+              "first_seen": "2026-08-29T02:26:30.668Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "▫️ LangGraph Libraries and SDKs ▫️"
+        }
+      ],
+      "title": "🦜 LangGraph 🕸️"
+    },
+    {
+      "description": "LangSmith is a framework-agnostic platform for building, debugging, evaluating, and deploying AI agents and LLM applications. It works with or without LangChain's open-source frameworks and brings observability, prompt engineering, deployment, and operational tooling into one workflow.\n[!TIP] Get started with LangSmith for free! Sign up at langchain.com/langsmith and follow the deployment quickstart, observability quickstart, or evaluation quickstart depending on where you want to start.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LangSmith Client SDK",
+              "description": "Official SDK for LangSmith platform integration",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "LangSmith Client SDK Implementations",
+                "homepage": "https://docs.smith.langchain.com/",
+                "id": 647427819,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-03T00:56:03Z",
+                "open_issues": 231,
+                "owner": "langchain-ai",
+                "repo": "langsmith-sdk",
+                "stars": 1066,
+                "topics": [
+                  "evaluation",
+                  "language-model",
+                  "observability"
+                ]
+              },
+              "first_seen": "2026-08-29T02:26:30.668Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🔹 LangSmith SDK 🔹"
         },
         {
-          "node_type": "item",
-          "title": "langchainjs",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The agent engineering platform",
-            "homepage": "https://docs.langchain.com/langchain/",
-            "id": 598342280,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-10-02T17:08:43Z",
-            "open_issues": 641,
-            "owner": "langchain-ai",
-            "repo": "langchainjs",
-            "stars": 18245,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repository",
+              "description": "langchain-ai/langsmith-claude-code-plugins",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "LangSmith plugins for Claude Code",
+                "homepage": "https://langchain.com",
+                "id": 1198091337,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-10-03T00:31:27Z",
+                "open_issues": 5,
+                "owner": "langchain-ai",
+                "repo": "langsmith-claude-code-plugins",
+                "stars": 73,
+                "topics": [
+                  "claude-code",
+                  "claude-code-plugin",
+                  "langsmith"
+                ]
+              },
+              "first_seen": "2026-08-29T02:26:30.668Z"
+            }
+          ],
+          "description": "Integrates LangSmith tracing and observability directly into Claude Code workflows. Connect your Claude Code sessions to LangSmith to capture traces, monitor runs, and evaluate agent behavior from within your IDE.",
+          "node_type": "group",
+          "title": "▪️ LangSmith Claude Code Plugins - LangSmith observability plugins for Claude Code ▪️"
+        }
+      ],
+      "title": "🦜 LangSmith 🛠️"
+    },
+    {
+      "description": "Examples of applications and tools built with the LangChain ecosystem, ranging from experimental projects to production-ready solutions that showcase different capabilities and use cases.",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Python",
+                  "description": "langchain-ai/langgraph-cua-py",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "An implementation of a computer use agent (CUA) using LangGraph",
+                    "homepage": null,
+                    "id": 951518063,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-09-20T04:54:21Z",
+                    "open_issues": 5,
+                    "owner": "langchain-ai",
+                    "repo": "langgraph-cua-py",
+                    "stars": 215,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T02:26:30.668Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "TypeScript",
+                  "description": "langchain-ai/langgraphjs",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Framework to build resilient language agents as graphs.",
+                    "homepage": "https://docs.langchain.com/oss/javascript/langgraph/",
+                    "id": 741100585,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2026-10-02T22:55:11Z",
+                    "open_issues": 198,
+                    "owner": "langchain-ai",
+                    "repo": "langgraphjs",
+                    "stars": 3332,
+                    "topics": [
+                      "agents",
+                      "ai",
+                      "artificial-intelligence",
+                      "generative-ai",
+                      "llm",
+                      "node",
+                      "typescript"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T02:26:30.668Z"
+                }
+              ],
+              "description": "Advanced agent for automating computer interactions and GUI tasks. Provides sophisticated screen interaction capabilities, click/type automation, and visual reasoning for complex desktop automation workflows.",
+              "node_type": "group",
+              "title": "▪️ Computer Use Agent - Automate computer interactions and GUI tasks ▪️"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Python",
+                  "description": "langchain-ai/langgraph-swarm-py",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "For your multi-agent needs",
+                    "homepage": "https://langchain-ai.github.io/langgraph/concepts/multi_agent/",
+                    "id": 935534753,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-09-20T05:30:22Z",
+                    "open_issues": 21,
+                    "owner": "langchain-ai",
+                    "repo": "langgraph-swarm-py",
+                    "stars": 1572,
+                    "topics": [
+                      "agents",
+                      "langgraph",
+                      "llms",
+                      "multiagent",
+                      "multiagent-systems",
+                      "python"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T02:26:30.668Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "TypeScript",
+                  "description": "langchain-ai/langgraphjs",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Framework to build resilient language agents as graphs.",
+                    "homepage": "https://docs.langchain.com/oss/javascript/langgraph/",
+                    "id": 741100585,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2026-10-02T22:55:11Z",
+                    "open_issues": 198,
+                    "owner": "langchain-ai",
+                    "repo": "langgraphjs",
+                    "stars": 3332,
+                    "topics": [
+                      "agents",
+                      "ai",
+                      "artificial-intelligence",
+                      "generative-ai",
+                      "llm",
+                      "node",
+                      "typescript"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T02:26:30.668Z"
+                }
+              ],
+              "description": "Multi-agent coordination system for distributed task execution. Enables dynamic task distribution and collective intelligence across multiple specialized agents working together on complex problems.",
+              "node_type": "group",
+              "title": "▪️ Swarm Agent - Coordinate multiple specialized agents ▪️"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Python",
+                  "description": "langchain-ai/langgraph-supervisor-py",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": null,
+                    "homepage": null,
+                    "id": 927970248,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-07-15T06:32:54Z",
+                    "open_issues": 54,
+                    "owner": "langchain-ai",
+                    "repo": "langgraph-supervisor-py",
+                    "stars": 1655,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T02:26:30.668Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "TypeScript",
+                  "description": "langchain-ai/langgraphjs",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Framework to build resilient language agents as graphs.",
+                    "homepage": "https://docs.langchain.com/oss/javascript/langgraph/",
+                    "id": 741100585,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2026-10-02T22:55:11Z",
+                    "open_issues": 198,
+                    "owner": "langchain-ai",
+                    "repo": "langgraphjs",
+                    "stars": 3332,
+                    "topics": [
+                      "agents",
+                      "ai",
+                      "artificial-intelligence",
+                      "generative-ai",
+                      "llm",
+                      "node",
+                      "typescript"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T02:26:30.668Z"
+                }
+              ],
+              "description": "Agent orchestration and workflow supervision system. Provides advanced multi-agent coordination, task delegation, and workflow management for complex hierarchical agent architectures.",
+              "node_type": "group",
+              "title": "▪️ Supervisor - Hierarchical multi-agent coordination ▪️"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Python",
+                  "description": "langchain-ai/langchain-mcp-adapters",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "LangChain 🔌 MCP",
+                    "homepage": "https://docs.langchain.com/oss/python/langchain/mcp",
+                    "id": 929158279,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-09-16T03:16:07Z",
+                    "open_issues": 0,
+                    "owner": "langchain-ai",
+                    "repo": "langchain-mcp-adapters",
+                    "stars": 3655,
+                    "topics": [
+                      "langchain",
+                      "langgraph",
+                      "mcp",
+                      "python",
+                      "tools"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T02:26:30.668Z"
+                }
+              ],
+              "description": "Model Context Protocol integration for LangChain agents. Provides tool compatibility and protocol bridging to seamlessly integrate Anthropic MCP tools with agent workflows.",
+              "node_type": "group",
+              "title": "▪️ MCP Adapters - Integrate Anthropic MCP tools with agents ▪️"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Python",
+                  "description": "langchain-ai/langmem",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": "https://langchain-ai.github.io/langmem/",
+                    "id": 920242883,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-02T19:35:27Z",
+                    "open_issues": 66,
+                    "owner": "langchain-ai",
+                    "repo": "langmem",
+                    "stars": 1692,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T02:26:30.668Z"
+                }
+              ],
+              "description": "Advanced memory management system for persistent agent learning. Enables memory management, experience replay, and adaptation for agents that learn and improve over time.",
+              "node_type": "group",
+              "title": "▪️ LangMem - Build agents with persistent learning capabilities ▪️"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Python",
+                  "description": "langchain-ai/langgraph-bigtool",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Build LangGraph agents with large numbers of tools",
+                    "homepage": null,
+                    "id": 942118787,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-09-20T05:14:02Z",
+                    "open_issues": 12,
+                    "owner": "langchain-ai",
+                    "repo": "langgraph-bigtool",
+                    "stars": 558,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T02:26:30.668Z"
+                }
+              ],
+              "description": "Large-scale tool management and optimization system. Provides advanced tool management and intelligent selection optimization for efficiently handling complex tool ecosystems.",
+              "node_type": "group",
+              "title": "▪️ BigTool - Handle large-scale tool ecosystems ▪️"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Python",
+                  "description": "langchain-ai/deepagents",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "The batteries-included agent harness.",
+                    "homepage": "https://docs.langchain.com/deepagents",
+                    "id": 1027384981,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-03T01:15:18Z",
+                    "open_issues": 200,
+                    "owner": "langchain-ai",
+                    "repo": "deepagents",
+                    "stars": 29913,
+                    "topics": [
+                      "ai",
+                      "deepagents",
+                      "harness",
+                      "harness-engineering",
+                      "langchain",
+                      "langgraph",
+                      "python",
+                      "typescript"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T02:26:30.668Z"
+                }
+              ],
+              "description": "Advanced agents for complex, long-term planning and execution. Features sophisticated planning tools, sub-agent orchestration, file system access, and detailed prompts for handling complex multi-step tasks.",
+              "node_type": "group",
+              "title": "▪️ Deep Agents - Complex, long-term planning and execution ▪️"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Python",
+                  "description": "langchain-ai/open_deep_research",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": null,
+                    "homepage": null,
+                    "id": 891642747,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-08-10T18:13:37Z",
+                    "open_issues": 73,
+                    "owner": "langchain-ai",
+                    "repo": "open_deep_research",
+                    "stars": 12684,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T02:26:30.668Z"
+                }
+              ],
+              "description": "Configurable deep research agent for automated research tasks. Performs comprehensive research across multiple sources with multi-model support, MCP compatibility, and evaluation benchmarks. Achieves performance comparable to popular research agents on Deep Research Bench leaderboard.",
+              "node_type": "group",
+              "title": "▪️ Open Deep Research - Automated PhD-level research agent ▪️"
+            }
+          ],
+          "description": "Pre-built agent packages for specific use cases and interaction patterns:",
+          "node_type": "group",
+          "title": "🟩 Specialized Agent Libraries 🤖"
         },
         {
-          "node_type": "item",
-          "title": "langchain",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The agent engineering platform.",
-            "homepage": "https://docs.langchain.com/langchain/",
-            "id": 552661142,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-02T22:57:27Z",
-            "open_issues": 605,
-            "owner": "langchain-ai",
-            "repo": "langchain",
-            "stars": 147388,
-            "topics": [
-              "agents",
-              "ai",
-              "ai-agents",
-              "anthropic",
-              "chatgpt",
-              "deepagents",
-              "enterprise",
-              "framework",
-              "gemini",
-              "generative-ai",
-              "langchain",
-              "langgraph",
-              "llm",
-              "multiagent",
-              "open-source",
-              "openai",
-              "pydantic",
-              "python",
-              "rag",
-              "typescript"
-            ]
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Repository",
+                  "description": "langchain-ai/langconnect",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A managed RAG API server.",
+                    "homepage": null,
+                    "id": 971622104,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-01T15:05:21Z",
+                    "open_issues": 3,
+                    "owner": "langchain-ai",
+                    "repo": "langconnect",
+                    "stars": 346,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T02:26:30.668Z"
+                }
+              ],
+              "description": "Managed RAG service with FastAPI and PostgreSQL/pgvector integration. Features document collection management, semantic search, and Docker deployment support for production-ready RAG applications.",
+              "node_type": "group",
+              "title": "▪️ LangConnect - Managed RAG service with FastAPI integration ▪️"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Repository",
+                  "description": "langchain-ai/chat-langchain",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": "https://chat.langchain.com",
+                    "id": 589743600,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2026-10-03T02:33:05Z",
+                    "open_issues": 430,
+                    "owner": "langchain-ai",
+                    "repo": "chat-langchain",
+                    "stars": 6463,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T02:26:30.668Z"
+                }
+              ],
+              "description": "Documentation assistant powered by RAG-based semantic search with intelligent query analysis. Features automated content indexing, duplicate prevention, GenUI, and sophisticated document tracking system.",
+              "node_type": "group",
+              "title": "▪️ ChatLangChain - Documentation assistant with RAG-based search ▪️"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Repository",
+                  "description": "langchain-ai/agent-inbox",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "📥 An inbox UX for interacting with human-in-the-loop agents.",
+                    "homepage": "https://dev.agentinbox.ai",
+                    "id": 883412036,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2026-09-18T22:08:30Z",
+                    "open_issues": 26,
+                    "owner": "langchain-ai",
+                    "repo": "agent-inbox",
+                    "stars": 1093,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T02:26:30.668Z"
+                }
+              ],
+              "description": "Centralized interface for AI agent interactions featuring real-time communication. Includes interrupt handling and configurable response systems for both local and cloud deployments.",
+              "node_type": "group",
+              "title": "▪️ Agent Inbox - Centralized interface for AI agent interactions ▪️"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Repository",
+                  "description": "langchain-ai/langgraph-fullstack-python",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 935743971,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-03-31T08:44:21Z",
+                    "open_issues": 2,
+                    "owner": "langchain-ai",
+                    "repo": "langgraph-fullstack-python",
+                    "stars": 157,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T02:26:30.668Z"
+                }
+              ],
+              "description": "All-in-one chatbot template combining React-style agents with modern UI. Built with FastHTML components and Claude 3, featuring single-deployment architecture and extensible tools.",
+              "node_type": "group",
+              "title": "▪️ Python Fullstack - All-in-one chatbot template with modern UI ▪️"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Repository",
+                  "description": "langchain-ai/langchain-nextjs-template",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "LangChain + Next.js starter template",
+                    "homepage": "https://langchain-nextjs-template.vercel.app",
+                    "id": 672095858,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2026-10-01T02:05:18Z",
+                    "open_issues": 29,
+                    "owner": "langchain-ai",
+                    "repo": "langchain-nextjs-template",
+                    "stars": 2534,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T02:26:30.668Z"
+                }
+              ],
+              "description": "Next.js starter template showcasing LangChain.js modules. Includes streaming chat, structured output, multi-step agents, and RAG implementations with Vercel AI SDK integration.",
+              "node_type": "group",
+              "title": "▪️ LangChain Next.js - Next.js starter template for LangChain.js ▪️"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Repository",
+                  "description": "langchain-ai/multi-modal-researcher",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1007271231,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2025-06-26T22:13:56Z",
+                    "open_issues": 2,
+                    "owner": "langchain-ai",
+                    "repo": "multi-modal-researcher",
+                    "stars": 589,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T02:26:30.668Z"
+                }
+              ],
+              "description": "Research and podcast generation workflow using LangGraph with Gemini 2.5 model family. Features video understanding, Google search integration, and multi-speaker text-to-speech for creating comprehensive research reports and audio podcasts.",
+              "node_type": "group",
+              "title": "▪️ Multi-Modal Researcher - Research and podcast generation workflow ▪️"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Repository",
+                  "description": "langchain-ai/deep-agents-ui",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "Custom UI for Deep Agents",
+                    "homepage": null,
+                    "id": 1035132090,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2026-06-21T12:42:09Z",
+                    "open_issues": 43,
+                    "owner": "langchain-ai",
+                    "repo": "deep-agents-ui",
+                    "stars": 1706,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T02:26:30.668Z"
+                }
+              ],
+              "description": "Next.js interface for Deep Agents with streaming support and LangGraph Platform integration. Generic AI agents capable of handling tasks of varying complexity with customizable UI components.",
+              "node_type": "group",
+              "title": "▪️ Deep Agents UI - Next.js interface for Deep Agents ▪️"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Repository",
+                  "description": "bracesproul/gen-ui-computer-use",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A Generative UI app for interacting with Computer Use Agents",
+                    "homepage": "https://gen-ui-computer-use.vercel.app/",
+                    "id": 952819342,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2025-04-02T01:54:43Z",
+                    "open_issues": 2,
+                    "owner": "bracesproul",
+                    "repo": "gen-ui-computer-use",
+                    "stars": 225,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T02:26:30.668Z"
+                }
+              ],
+              "description": "A Generative UI web app for interacting with Computer Use Agents (CUA). Uses the prebuilt package and features a modern interface for computer automation and task management.",
+              "node_type": "group",
+              "title": "▪️ Gen UI Computer Use - Generative UI web app for Computer Use Agents ▪️"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Repository",
+                  "description": "langchain-ai/social-media-agent",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "📲 An agent for sourcing, curating, and scheduling social media posts with human-in-the-loop.",
+                    "homepage": null,
+                    "id": 892240018,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2026-10-01T15:07:56Z",
+                    "open_issues": 19,
+                    "owner": "langchain-ai",
+                    "repo": "social-media-agent",
+                    "stars": 2821,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T02:26:30.668Z"
+                }
+              ],
+              "description": "Generates Twitter & LinkedIn posts from URLs with optional human review. Features content analysis, platform-specific formatting, and approval workflows for social media content creation.",
+              "node_type": "group",
+              "title": "▪️ Social Media Agent - Generates social media posts from URLs ▪️"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Repository",
+                  "description": "langchain-ai/open-swe",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "An Open-Source Asynchronous Coding Agent",
+                    "homepage": "https://www.langchain.com/blog/open-swe-an-open-source-framework-for-internal-coding-agents",
+                    "id": 987975584,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-03T01:32:25Z",
+                    "open_issues": 96,
+                    "owner": "langchain-ai",
+                    "repo": "open-swe",
+                    "stars": 10789,
+                    "topics": [
+                      "agent",
+                      "agents",
+                      "ai",
+                      "anthropic",
+                      "claudecode",
+                      "llm",
+                      "llms",
+                      "openai"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T02:26:30.668Z"
+                }
+              ],
+              "description": "Open-source asynchronous coding agent built on LangGraph for long-running, autonomous software engineering tasks. Supports Anthropic and OpenAI models and is designed for complex, multi-step code generation and modification workflows.",
+              "node_type": "group",
+              "title": "▪️ Open SWE - Open-source asynchronous coding agent ▪️"
+            }
+          ],
+          "description": "Complete application examples showcasing different patterns and use cases:",
+          "node_type": "group",
+          "title": "🟩 Apps & Agents 📱"
         },
         {
-          "node_type": "item",
-          "title": "langchainjs",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The agent engineering platform",
-            "homepage": "https://docs.langchain.com/langchain/",
-            "id": 598342280,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-10-02T17:08:43Z",
-            "open_issues": 641,
-            "owner": "langchain-ai",
-            "repo": "langchainjs",
-            "stars": 18245,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        },
-        {
-          "node_type": "item",
-          "title": "langchain",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The agent engineering platform.",
-            "homepage": "https://docs.langchain.com/langchain/",
-            "id": 552661142,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-02T22:57:27Z",
-            "open_issues": 605,
-            "owner": "langchain-ai",
-            "repo": "langchain",
-            "stars": 147388,
-            "topics": [
-              "agents",
-              "ai",
-              "ai-agents",
-              "anthropic",
-              "chatgpt",
-              "deepagents",
-              "enterprise",
-              "framework",
-              "gemini",
-              "generative-ai",
-              "langchain",
-              "langgraph",
-              "llm",
-              "multiagent",
-              "open-source",
-              "openai",
-              "pydantic",
-              "python",
-              "rag",
-              "typescript"
-            ]
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        },
-        {
-          "node_type": "item",
-          "title": "langchainjs",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The agent engineering platform",
-            "homepage": "https://docs.langchain.com/langchain/",
-            "id": 598342280,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-10-02T17:08:43Z",
-            "open_issues": 641,
-            "owner": "langchain-ai",
-            "repo": "langchainjs",
-            "stars": 18245,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        },
-        {
-          "node_type": "item",
-          "title": "MCP Adapters",
-          "description": "- Make Anthropic MCP tools compatible with agents",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "LangChain 🔌 MCP",
-            "homepage": "https://docs.langchain.com/oss/python/langchain/mcp",
-            "id": 929158279,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-16T03:16:07Z",
-            "open_issues": 0,
-            "owner": "langchain-ai",
-            "repo": "langchain-mcp-adapters",
-            "stars": 3655,
-            "topics": [
-              "langchain",
-              "langgraph",
-              "mcp",
-              "python",
-              "tools"
-            ]
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        },
-        {
-          "node_type": "item",
-          "title": "langchain",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The agent engineering platform.",
-            "homepage": "https://docs.langchain.com/langchain/",
-            "id": 552661142,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-02T22:57:27Z",
-            "open_issues": 605,
-            "owner": "langchain-ai",
-            "repo": "langchain",
-            "stars": 147388,
-            "topics": [
-              "agents",
-              "ai",
-              "ai-agents",
-              "anthropic",
-              "chatgpt",
-              "deepagents",
-              "enterprise",
-              "framework",
-              "gemini",
-              "generative-ai",
-              "langchain",
-              "langgraph",
-              "llm",
-              "multiagent",
-              "open-source",
-              "openai",
-              "pydantic",
-              "python",
-              "rag",
-              "typescript"
-            ]
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        },
-        {
-          "node_type": "item",
-          "title": "langchainjs",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The agent engineering platform",
-            "homepage": "https://docs.langchain.com/langchain/",
-            "id": 598342280,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-10-02T17:08:43Z",
-            "open_issues": 641,
-            "owner": "langchain-ai",
-            "repo": "langchainjs",
-            "stars": 18245,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        },
-        {
-          "node_type": "item",
-          "title": "langchain",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The agent engineering platform.",
-            "homepage": "https://docs.langchain.com/langchain/",
-            "id": 552661142,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-02T22:57:27Z",
-            "open_issues": 605,
-            "owner": "langchain-ai",
-            "repo": "langchain",
-            "stars": 147388,
-            "topics": [
-              "agents",
-              "ai",
-              "ai-agents",
-              "anthropic",
-              "chatgpt",
-              "deepagents",
-              "enterprise",
-              "framework",
-              "gemini",
-              "generative-ai",
-              "langchain",
-              "langgraph",
-              "llm",
-              "multiagent",
-              "open-source",
-              "openai",
-              "pydantic",
-              "python",
-              "rag",
-              "typescript"
-            ]
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        },
-        {
-          "node_type": "item",
-          "title": "langchainjs",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The agent engineering platform",
-            "homepage": "https://docs.langchain.com/langchain/",
-            "id": 598342280,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-10-02T17:08:43Z",
-            "open_issues": 641,
-            "owner": "langchain-ai",
-            "repo": "langchainjs",
-            "stars": 18245,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        },
-        {
-          "node_type": "item",
-          "title": "CLI Tools",
-          "description": "- Command line interface for project management",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The agent engineering platform.",
-            "homepage": "https://docs.langchain.com/langchain/",
-            "id": 552661142,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-02T22:57:27Z",
-            "open_issues": 605,
-            "owner": "langchain-ai",
-            "repo": "langchain",
-            "stars": 147388,
-            "topics": [
-              "agents",
-              "ai",
-              "ai-agents",
-              "anthropic",
-              "chatgpt",
-              "deepagents",
-              "enterprise",
-              "framework",
-              "gemini",
-              "generative-ai",
-              "langchain",
-              "langgraph",
-              "llm",
-              "multiagent",
-              "open-source",
-              "openai",
-              "pydantic",
-              "python",
-              "rag",
-              "typescript"
-            ]
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Legacy",
-          "description": "- Legacy components from pre-v1.0 (Python only)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The agent engineering platform.",
-            "homepage": "https://docs.langchain.com/langchain/",
-            "id": 552661142,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-02T22:57:27Z",
-            "open_issues": 605,
-            "owner": "langchain-ai",
-            "repo": "langchain",
-            "stars": 147388,
-            "topics": [
-              "agents",
-              "ai",
-              "ai-agents",
-              "anthropic",
-              "chatgpt",
-              "deepagents",
-              "enterprise",
-              "framework",
-              "gemini",
-              "generative-ai",
-              "langchain",
-              "langgraph",
-              "llm",
-              "multiagent",
-              "open-source",
-              "openai",
-              "pydantic",
-              "python",
-              "rag",
-              "typescript"
-            ]
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Repository",
+                  "description": "langchain-ai/langgraph-gen-py",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "CLI to generate LangGraph stubs from a specification",
+                    "homepage": null,
+                    "id": 938370407,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-09-20T05:13:36Z",
+                    "open_issues": 7,
+                    "owner": "langchain-ai",
+                    "repo": "langgraph-gen-py",
+                    "stars": 114,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T02:26:30.668Z"
+                }
+              ],
+              "description": "Automated code generation tool for LangGraph projects. Converts YAML configurations to working code, provides project scaffolding, and automates boilerplate creation for rapid development.",
+              "node_type": "group",
+              "title": "▪️ LangGraph Generator - Code generation and project scaffolding ▪️"
+            }
+          ],
+          "description": "Development tools for building, visualizing, and deploying LangGraph applications:",
+          "node_type": "group",
+          "title": "🟩 Development Tools 🛠️"
         }
       ],
-      "title": "▫️ LangChain Libraries ▫️"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "langgraph",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Build resilient agents.",
-            "homepage": "https://docs.langchain.com/oss/python/langgraph/",
-            "id": 676672661,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-02T21:14:50Z",
-            "open_issues": 815,
-            "owner": "langchain-ai",
-            "repo": "langgraph",
-            "stars": 42632,
-            "topics": [
-              "agents",
-              "ai",
-              "ai-agents",
-              "chatgpt",
-              "deepagents",
-              "enterprise",
-              "framework",
-              "gemini",
-              "generative-ai",
-              "langchain",
-              "langgraph",
-              "llm",
-              "multiagent",
-              "open-source",
-              "openai",
-              "pydantic",
-              "python",
-              "rag"
-            ]
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        },
-        {
-          "node_type": "item",
-          "title": "langgraphjs",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Framework to build resilient language agents as graphs.",
-            "homepage": "https://docs.langchain.com/oss/javascript/langgraph/",
-            "id": 741100585,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-10-02T22:55:11Z",
-            "open_issues": 198,
-            "owner": "langchain-ai",
-            "repo": "langgraphjs",
-            "stars": 3332,
-            "topics": [
-              "agents",
-              "ai",
-              "artificial-intelligence",
-              "generative-ai",
-              "llm",
-              "node",
-              "typescript"
-            ]
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        },
-        {
-          "node_type": "item",
-          "title": "langgraph",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Build resilient agents.",
-            "homepage": "https://docs.langchain.com/oss/python/langgraph/",
-            "id": 676672661,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-02T21:14:50Z",
-            "open_issues": 815,
-            "owner": "langchain-ai",
-            "repo": "langgraph",
-            "stars": 42632,
-            "topics": [
-              "agents",
-              "ai",
-              "ai-agents",
-              "chatgpt",
-              "deepagents",
-              "enterprise",
-              "framework",
-              "gemini",
-              "generative-ai",
-              "langchain",
-              "langgraph",
-              "llm",
-              "multiagent",
-              "open-source",
-              "openai",
-              "pydantic",
-              "python",
-              "rag"
-            ]
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        },
-        {
-          "node_type": "item",
-          "title": "langgraphjs",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Framework to build resilient language agents as graphs.",
-            "homepage": "https://docs.langchain.com/oss/javascript/langgraph/",
-            "id": 741100585,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-10-02T22:55:11Z",
-            "open_issues": 198,
-            "owner": "langchain-ai",
-            "repo": "langgraphjs",
-            "stars": 3332,
-            "topics": [
-              "agents",
-              "ai",
-              "artificial-intelligence",
-              "generative-ai",
-              "llm",
-              "node",
-              "typescript"
-            ]
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        }
-      ],
-      "title": "▫️ LangGraph Libraries and SDKs ▫️"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "LangSmith Client SDK",
-          "description": "Official SDK for LangSmith platform integration",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "LangSmith Client SDK Implementations",
-            "homepage": "https://docs.smith.langchain.com/",
-            "id": 647427819,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-02T21:49:32Z",
-            "open_issues": 232,
-            "owner": "langchain-ai",
-            "repo": "langsmith-sdk",
-            "stars": 1066,
-            "topics": [
-              "evaluation",
-              "language-model",
-              "observability"
-            ]
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        }
-      ],
-      "title": "🔹 LangSmith SDK 🔹"
-    },
-    {
-      "description": "Integrates LangSmith tracing and observability directly into Claude Code workflows. Connect your Claude Code sessions to LangSmith to capture traces, monitor runs, and evaluate agent behavior from within your IDE.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Repository",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "LangSmith plugins for Claude Code",
-            "homepage": "https://langchain.com",
-            "id": 1198091337,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-10-02T23:05:46Z",
-            "open_issues": 5,
-            "owner": "langchain-ai",
-            "repo": "langsmith-claude-code-plugins",
-            "stars": 72,
-            "topics": [
-              "claude-code",
-              "claude-code-plugin",
-              "langsmith"
-            ]
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        }
-      ],
-      "title": "▪️ LangSmith Claude Code Plugins - LangSmith observability plugins for Claude Code ▪️"
-    },
-    {
-      "description": "Advanced agent for automating computer interactions and GUI tasks. Provides sophisticated screen interaction capabilities, click/type automation, and visual reasoning for complex desktop automation workflows.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Python",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An implementation of a computer use agent (CUA) using LangGraph",
-            "homepage": null,
-            "id": 951518063,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-20T04:54:21Z",
-            "open_issues": 5,
-            "owner": "langchain-ai",
-            "repo": "langgraph-cua-py",
-            "stars": 215,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        },
-        {
-          "node_type": "item",
-          "title": "TypeScript",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Framework to build resilient language agents as graphs.",
-            "homepage": "https://docs.langchain.com/oss/javascript/langgraph/",
-            "id": 741100585,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-10-02T22:55:11Z",
-            "open_issues": 198,
-            "owner": "langchain-ai",
-            "repo": "langgraphjs",
-            "stars": 3332,
-            "topics": [
-              "agents",
-              "ai",
-              "artificial-intelligence",
-              "generative-ai",
-              "llm",
-              "node",
-              "typescript"
-            ]
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        }
-      ],
-      "title": "▪️ Computer Use Agent - Automate computer interactions and GUI tasks ▪️"
-    },
-    {
-      "description": "Multi-agent coordination system for distributed task execution. Enables dynamic task distribution and collective intelligence across multiple specialized agents working together on complex problems.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Python",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "For your multi-agent needs",
-            "homepage": "https://langchain-ai.github.io/langgraph/concepts/multi_agent/",
-            "id": 935534753,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-20T05:30:22Z",
-            "open_issues": 21,
-            "owner": "langchain-ai",
-            "repo": "langgraph-swarm-py",
-            "stars": 1572,
-            "topics": [
-              "agents",
-              "langgraph",
-              "llms",
-              "multiagent",
-              "multiagent-systems",
-              "python"
-            ]
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        },
-        {
-          "node_type": "item",
-          "title": "TypeScript",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Framework to build resilient language agents as graphs.",
-            "homepage": "https://docs.langchain.com/oss/javascript/langgraph/",
-            "id": 741100585,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-10-02T22:55:11Z",
-            "open_issues": 198,
-            "owner": "langchain-ai",
-            "repo": "langgraphjs",
-            "stars": 3332,
-            "topics": [
-              "agents",
-              "ai",
-              "artificial-intelligence",
-              "generative-ai",
-              "llm",
-              "node",
-              "typescript"
-            ]
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        }
-      ],
-      "title": "▪️ Swarm Agent - Coordinate multiple specialized agents ▪️"
-    },
-    {
-      "description": "Agent orchestration and workflow supervision system. Provides advanced multi-agent coordination, task delegation, and workflow management for complex hierarchical agent architectures.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Python",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": null,
-            "homepage": null,
-            "id": 927970248,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-07-15T06:32:54Z",
-            "open_issues": 54,
-            "owner": "langchain-ai",
-            "repo": "langgraph-supervisor-py",
-            "stars": 1655,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        },
-        {
-          "node_type": "item",
-          "title": "TypeScript",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Framework to build resilient language agents as graphs.",
-            "homepage": "https://docs.langchain.com/oss/javascript/langgraph/",
-            "id": 741100585,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-10-02T22:55:11Z",
-            "open_issues": 198,
-            "owner": "langchain-ai",
-            "repo": "langgraphjs",
-            "stars": 3332,
-            "topics": [
-              "agents",
-              "ai",
-              "artificial-intelligence",
-              "generative-ai",
-              "llm",
-              "node",
-              "typescript"
-            ]
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        }
-      ],
-      "title": "▪️ Supervisor - Hierarchical multi-agent coordination ▪️"
-    },
-    {
-      "description": "Model Context Protocol integration for LangChain agents. Provides tool compatibility and protocol bridging to seamlessly integrate Anthropic MCP tools with agent workflows.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Python",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "LangChain 🔌 MCP",
-            "homepage": "https://docs.langchain.com/oss/python/langchain/mcp",
-            "id": 929158279,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-16T03:16:07Z",
-            "open_issues": 0,
-            "owner": "langchain-ai",
-            "repo": "langchain-mcp-adapters",
-            "stars": 3655,
-            "topics": [
-              "langchain",
-              "langgraph",
-              "mcp",
-              "python",
-              "tools"
-            ]
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        }
-      ],
-      "title": "▪️ MCP Adapters - Integrate Anthropic MCP tools with agents ▪️"
-    },
-    {
-      "description": "Advanced memory management system for persistent agent learning. Enables memory management, experience replay, and adaptation for agents that learn and improve over time.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Python",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": "https://langchain-ai.github.io/langmem/",
-            "id": 920242883,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-02T19:35:27Z",
-            "open_issues": 66,
-            "owner": "langchain-ai",
-            "repo": "langmem",
-            "stars": 1692,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        }
-      ],
-      "title": "▪️ LangMem - Build agents with persistent learning capabilities ▪️"
-    },
-    {
-      "description": "Large-scale tool management and optimization system. Provides advanced tool management and intelligent selection optimization for efficiently handling complex tool ecosystems.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Python",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Build LangGraph agents with large numbers of tools",
-            "homepage": null,
-            "id": 942118787,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-20T05:14:02Z",
-            "open_issues": 12,
-            "owner": "langchain-ai",
-            "repo": "langgraph-bigtool",
-            "stars": 558,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        }
-      ],
-      "title": "▪️ BigTool - Handle large-scale tool ecosystems ▪️"
-    },
-    {
-      "description": "Advanced agents for complex, long-term planning and execution. Features sophisticated planning tools, sub-agent orchestration, file system access, and detailed prompts for handling complex multi-step tasks.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Python",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The batteries-included agent harness.",
-            "homepage": "https://docs.langchain.com/deepagents",
-            "id": 1027384981,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-02T20:47:21Z",
-            "open_issues": 201,
-            "owner": "langchain-ai",
-            "repo": "deepagents",
-            "stars": 29909,
-            "topics": [
-              "ai",
-              "deepagents",
-              "harness",
-              "harness-engineering",
-              "langchain",
-              "langgraph",
-              "python",
-              "typescript"
-            ]
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        }
-      ],
-      "title": "▪️ Deep Agents - Complex, long-term planning and execution ▪️"
-    },
-    {
-      "description": "Configurable deep research agent for automated research tasks. Performs comprehensive research across multiple sources with multi-model support, MCP compatibility, and evaluation benchmarks. Achieves performance comparable to popular research agents on Deep Research Bench leaderboard.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Python",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": null,
-            "homepage": null,
-            "id": 891642747,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-08-10T18:13:37Z",
-            "open_issues": 73,
-            "owner": "langchain-ai",
-            "repo": "open_deep_research",
-            "stars": 12684,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        }
-      ],
-      "title": "▪️ Open Deep Research - Automated PhD-level research agent ▪️"
-    },
-    {
-      "description": "Managed RAG service with FastAPI and PostgreSQL/pgvector integration. Features document collection management, semantic search, and Docker deployment support for production-ready RAG applications.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Repository",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A managed RAG API server.",
-            "homepage": null,
-            "id": 971622104,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-01T15:05:21Z",
-            "open_issues": 3,
-            "owner": "langchain-ai",
-            "repo": "langconnect",
-            "stars": 346,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        }
-      ],
-      "title": "▪️ LangConnect - Managed RAG service with FastAPI integration ▪️"
-    },
-    {
-      "description": "Documentation assistant powered by RAG-based semantic search with intelligent query analysis. Features automated content indexing, duplicate prevention, GenUI, and sophisticated document tracking system.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Repository",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": "https://chat.langchain.com",
-            "id": 589743600,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-10-02T22:14:49Z",
-            "open_issues": 411,
-            "owner": "langchain-ai",
-            "repo": "chat-langchain",
-            "stars": 6463,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        }
-      ],
-      "title": "▪️ ChatLangChain - Documentation assistant with RAG-based search ▪️"
-    },
-    {
-      "description": "Centralized interface for AI agent interactions featuring real-time communication. Includes interrupt handling and configurable response systems for both local and cloud deployments.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Repository",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "📥 An inbox UX for interacting with human-in-the-loop agents.",
-            "homepage": "https://dev.agentinbox.ai",
-            "id": 883412036,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-09-18T22:08:30Z",
-            "open_issues": 26,
-            "owner": "langchain-ai",
-            "repo": "agent-inbox",
-            "stars": 1093,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        }
-      ],
-      "title": "▪️ Agent Inbox - Centralized interface for AI agent interactions ▪️"
-    },
-    {
-      "description": "All-in-one chatbot template combining React-style agents with modern UI. Built with FastHTML components and Claude 3, featuring single-deployment architecture and extensible tools.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Repository",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 935743971,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-03-31T08:44:21Z",
-            "open_issues": 2,
-            "owner": "langchain-ai",
-            "repo": "langgraph-fullstack-python",
-            "stars": 157,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        }
-      ],
-      "title": "▪️ Python Fullstack - All-in-one chatbot template with modern UI ▪️"
-    },
-    {
-      "description": "Next.js starter template showcasing LangChain.js modules. Includes streaming chat, structured output, multi-step agents, and RAG implementations with Vercel AI SDK integration.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Repository",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "LangChain + Next.js starter template",
-            "homepage": "https://langchain-nextjs-template.vercel.app",
-            "id": 672095858,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-10-01T02:05:18Z",
-            "open_issues": 29,
-            "owner": "langchain-ai",
-            "repo": "langchain-nextjs-template",
-            "stars": 2534,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        }
-      ],
-      "title": "▪️ LangChain Next.js - Next.js starter template for LangChain.js ▪️"
-    },
-    {
-      "description": "Research and podcast generation workflow using LangGraph with Gemini 2.5 model family. Features video understanding, Google search integration, and multi-speaker text-to-speech for creating comprehensive research reports and audio podcasts.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Repository",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": null,
-            "homepage": null,
-            "id": 1007271231,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2025-06-26T22:13:56Z",
-            "open_issues": 2,
-            "owner": "langchain-ai",
-            "repo": "multi-modal-researcher",
-            "stars": 589,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        }
-      ],
-      "title": "▪️ Multi-Modal Researcher - Research and podcast generation workflow ▪️"
-    },
-    {
-      "description": "Next.js interface for Deep Agents with streaming support and LangGraph Platform integration. Generic AI agents capable of handling tasks of varying complexity with customizable UI components.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Repository",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Custom UI for Deep Agents",
-            "homepage": null,
-            "id": 1035132090,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-06-21T12:42:09Z",
-            "open_issues": 43,
-            "owner": "langchain-ai",
-            "repo": "deep-agents-ui",
-            "stars": 1706,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        }
-      ],
-      "title": "▪️ Deep Agents UI - Next.js interface for Deep Agents ▪️"
-    },
-    {
-      "description": "A Generative UI web app for interacting with Computer Use Agents (CUA). Uses the prebuilt package and features a modern interface for computer automation and task management.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Repository",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Generative UI app for interacting with Computer Use Agents",
-            "homepage": "https://gen-ui-computer-use.vercel.app/",
-            "id": 952819342,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2025-04-02T01:54:43Z",
-            "open_issues": 2,
-            "owner": "bracesproul",
-            "repo": "gen-ui-computer-use",
-            "stars": 225,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        }
-      ],
-      "title": "▪️ Gen UI Computer Use - Generative UI web app for Computer Use Agents ▪️"
-    },
-    {
-      "description": "Generates Twitter & LinkedIn posts from URLs with optional human review. Features content analysis, platform-specific formatting, and approval workflows for social media content creation.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Repository",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "📲 An agent for sourcing, curating, and scheduling social media posts with human-in-the-loop.",
-            "homepage": null,
-            "id": 892240018,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-10-01T15:07:56Z",
-            "open_issues": 19,
-            "owner": "langchain-ai",
-            "repo": "social-media-agent",
-            "stars": 2819,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        }
-      ],
-      "title": "▪️ Social Media Agent - Generates social media posts from URLs ▪️"
-    },
-    {
-      "description": "Open-source asynchronous coding agent built on LangGraph for long-running, autonomous software engineering tasks. Supports Anthropic and OpenAI models and is designed for complex, multi-step code generation and modification workflows.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Repository",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An Open-Source Asynchronous Coding Agent",
-            "homepage": "https://www.langchain.com/blog/open-swe-an-open-source-framework-for-internal-coding-agents",
-            "id": 987975584,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-02T23:12:55Z",
-            "open_issues": 94,
-            "owner": "langchain-ai",
-            "repo": "open-swe",
-            "stars": 10789,
-            "topics": [
-              "agent",
-              "agents",
-              "ai",
-              "anthropic",
-              "claudecode",
-              "llm",
-              "llms",
-              "openai"
-            ]
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        }
-      ],
-      "title": "▪️ Open SWE - Open-source asynchronous coding agent ▪️"
-    },
-    {
-      "description": "Automated code generation tool for LangGraph projects. Converts YAML configurations to working code, provides project scaffolding, and automates boilerplate creation for rapid development.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Repository",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "CLI to generate LangGraph stubs from a specification",
-            "homepage": null,
-            "id": 938370407,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-20T05:13:36Z",
-            "open_issues": 7,
-            "owner": "langchain-ai",
-            "repo": "langgraph-gen-py",
-            "stars": 114,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        }
-      ],
-      "title": "▪️ LangGraph Generator - Code generation and project scaffolding ▪️"
+      "title": "🟢 Official LangGraph Projects 🦜"
     },
     {
       "description": "Discover amazing open-source projects and innovative tools built by the community using the LangGraph ecosystem. These projects showcase real-world applications across diverse domains and use cases, demonstrating the versatility and power of LangGraph and LangChain frameworks.\nWant to add your project? See our Contributing Guide for details on how to submit your LangGraph/LangChain project to this collection.",
@@ -1377,11 +1445,11 @@
                 "id": 881458615,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T20:15:07Z",
-                "open_issues": 533,
+                "last_commit": "2026-10-03T00:06:08Z",
+                "open_issues": 531,
                 "owner": "browser-use",
                 "repo": "browser-use",
-                "stars": 117007,
+                "stars": 117018,
                 "topics": [
                   "ai-agents",
                   "ai-tools",
@@ -1543,7 +1611,7 @@
                 "id": 1185745318,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T22:38:30Z",
+                "last_commit": "2026-10-03T03:47:51Z",
                 "open_issues": 8,
                 "owner": "cacheplane",
                 "repo": "threadplane",
@@ -1962,7 +2030,7 @@
                 "open_issues": 36,
                 "owner": "business-science",
                 "repo": "ai-data-science-team",
-                "stars": 5431,
+                "stars": 5432,
                 "topics": [
                   "agents",
                   "ai",
@@ -2206,7 +2274,7 @@
                 "open_issues": 367,
                 "owner": "googleapis",
                 "repo": "mcp-toolbox",
-                "stars": 16555,
+                "stars": 16557,
                 "topics": [
                   "agent",
                   "agents",
@@ -2750,11 +2818,11 @@
                 "id": 1129940957,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T21:00:18Z",
-                "open_issues": 465,
+                "last_commit": "2026-10-03T01:59:03Z",
+                "open_issues": 461,
                 "owner": "headroomlabs-ai",
                 "repo": "headroom",
-                "stars": 74292,
+                "stars": 74302,
                 "topics": [
                   "agent",
                   "ai",
@@ -2803,7 +2871,7 @@
                 "open_issues": 176,
                 "owner": "virattt",
                 "repo": "ai-hedge-fund",
-                "stars": 63832,
+                "stars": 63836,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:26:30.668Z"
@@ -3307,11 +3375,11 @@
                 "id": 979115477,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T15:49:22Z",
-                "open_issues": 903,
+                "last_commit": "2026-10-03T03:33:31Z",
+                "open_issues": 898,
                 "owner": "bytedance",
                 "repo": "deer-flow",
-                "stars": 83335,
+                "stars": 83338,
                 "topics": [
                   "agent",
                   "agentic",
@@ -3372,7 +3440,7 @@
                 "id": 835975784,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T21:21:53Z",
+                "last_commit": "2026-10-02T23:58:46Z",
                 "open_issues": 112,
                 "owner": "MODSetter",
                 "repo": "SurfSense",
@@ -3507,11 +3575,11 @@
                 "id": 929868765,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T23:13:15Z",
-                "open_issues": 1105,
+                "last_commit": "2026-10-03T04:32:23Z",
+                "open_issues": 1117,
                 "owner": "LearningCircuit",
                 "repo": "local-deep-research",
-                "stars": 9147,
+                "stars": 9148,
                 "topics": [
                   "academia",
                   "anthropic",
@@ -3550,10 +3618,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T19:33:35Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "assafelovic",
                 "repo": "gpt-researcher",
-                "stars": 29877,
+                "stars": 29880,
                 "topics": [
                   "agent",
                   "ai",
@@ -3673,7 +3741,7 @@
                 "open_issues": 234,
                 "owner": "microsoft",
                 "repo": "RD-Agent",
-                "stars": 14819,
+                "stars": 14825,
                 "topics": [
                   "agent",
                   "ai",
@@ -3824,11 +3892,11 @@
                 "id": 997390194,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T15:03:38Z",
+                "last_commit": "2026-10-03T00:47:13Z",
                 "open_issues": 1,
                 "owner": "BitterSecurity",
                 "repo": "Decepticon",
-                "stars": 5642,
+                "stars": 5643,
                 "topics": [
                   "agent",
                   "ai",
@@ -4040,7 +4108,7 @@
                 "open_issues": 7,
                 "owner": "wassim249",
                 "repo": "fastapi-langgraph-agent-production-ready-template",
-                "stars": 2687,
+                "stars": 2688,
                 "topics": [
                   "agent",
                   "agentic-ai",
@@ -4445,11 +4513,11 @@
                 "id": 944080744,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T22:56:44Z",
-                "open_issues": 215,
+                "last_commit": "2026-10-03T04:28:39Z",
+                "open_issues": 223,
                 "owner": "pipeshub-ai",
                 "repo": "pipeshub-ai",
-                "stars": 3808,
+                "stars": 3809,
                 "topics": [
                   "agentic-rag",
                   "ai",
@@ -4479,252 +4547,263 @@
           "description": "Office automation, productivity tools, and workplace management",
           "node_type": "group",
           "title": "🏢 Workplace & Productivity"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Ava WhatsApp Agent Course",
+                  "description": "Build a WhatsApp agent with voice processing, image generation, and long-term memory using LangGraph.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Meet Ava, the WhatsApp Agent",
+                    "homepage": null,
+                    "id": 904639064,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2025-10-20T19:12:20Z",
+                    "open_issues": 7,
+                    "owner": "neural-maze",
+                    "repo": "ava-whatsapp-agent-course",
+                    "stars": 1679,
+                    "topics": [
+                      "agent",
+                      "agent-based",
+                      "agentic-workflow",
+                      "agents",
+                      "stt",
+                      "tts",
+                      "vector-database"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T02:26:30.668Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Courses"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GenAI Agents",
+                  "description": "A collection of agent implementation examples and patterns.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.",
+                    "homepage": "https://diamant-ai.com",
+                    "id": 854807707,
+                    "language": "Jupyter Notebook",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-10-01T10:42:54Z",
+                    "open_issues": 24,
+                    "owner": "NirDiamant",
+                    "repo": "GenAI_Agents",
+                    "stars": 24444,
+                    "topics": [
+                      "agentic-ai",
+                      "agents",
+                      "ai",
+                      "ai-agents",
+                      "autonomous-agents",
+                      "genai",
+                      "generative-ai",
+                      "langchain",
+                      "langgraph",
+                      "llm",
+                      "llms",
+                      "machine-learning",
+                      "mcp",
+                      "multi-agent",
+                      "multi-agent-systems",
+                      "openai",
+                      "python",
+                      "rag",
+                      "tutorials"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T02:26:30.668Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Generative AI",
+                  "description": "Comprehensive Generative AI resource hub covering roadmaps, LangChain/LangGraph projects, RAG, multi-agent patterns, MCP, and interview/coding prep.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and coding preparation.",
+                    "homepage": "https://aimlcompanion.ai/",
+                    "id": 740930524,
+                    "language": "Jupyter Notebook",
+                    "license": "MIT",
+                    "last_commit": "2026-09-30T12:15:11Z",
+                    "open_issues": 0,
+                    "owner": "genieincodebottle",
+                    "repo": "generative-ai",
+                    "stars": 2643,
+                    "topics": [
+                      "agentic-ai",
+                      "agentic-framework",
+                      "claude",
+                      "gemini",
+                      "genai",
+                      "genai-usecase",
+                      "generative-ai",
+                      "interview-questions",
+                      "langchain",
+                      "langgraph",
+                      "large-language-model",
+                      "llm-agent",
+                      "llm-evaluation",
+                      "mcp",
+                      "model-context-protocol",
+                      "multimodal",
+                      "n8n",
+                      "n8n-workflow",
+                      "openai-api",
+                      "retrieval-augmented-generation"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T02:26:30.668Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Examples"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "RAG Techniques",
+                  "description": "Several RAG implementations and step-by-step walkthroughs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.",
+                    "homepage": "https://diamant-ai.com",
+                    "id": 828268839,
+                    "language": "Jupyter Notebook",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-09-21T10:54:13Z",
+                    "open_issues": 6,
+                    "owner": "NirDiamant",
+                    "repo": "RAG_Techniques",
+                    "stars": 29658,
+                    "topics": [
+                      "agentic-rag",
+                      "ai",
+                      "embeddings",
+                      "generative-ai",
+                      "gpt",
+                      "langchain",
+                      "llama-index",
+                      "llm",
+                      "llms",
+                      "machine-learning",
+                      "nlp",
+                      "openai",
+                      "python",
+                      "rag",
+                      "retrieval-augmented-generation",
+                      "semantic-search",
+                      "tutorials",
+                      "vector-database"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T02:26:30.668Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Agent Memory Techniques",
+                  "description": "30 notebooks on agent memory: vector stores, knowledge graphs, episodic and semantic memory, Mem0, MemGPT/Letta, Zep, and Graphiti.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, MemGPT, Mem0, Letta, Zep, Graphiti, LoCoMo benchmarks, and production patterns.",
+                    "homepage": "https://diamantai.substack.com/",
+                    "id": 1230280405,
+                    "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-09-21T10:54:20Z",
+                    "open_issues": 2,
+                    "owner": "NirDiamant",
+                    "repo": "Agent_Memory_Techniques",
+                    "stars": 1083,
+                    "topics": [
+                      "agent-memory",
+                      "ai-agents",
+                      "anthropic",
+                      "episodic-memory",
+                      "generative-ai",
+                      "graphiti",
+                      "knowledge-graph",
+                      "langchain",
+                      "letta",
+                      "llm",
+                      "llm-agents",
+                      "llm-memory",
+                      "mem0",
+                      "memgpt",
+                      "openai",
+                      "python",
+                      "rag",
+                      "semantic-memory",
+                      "vector-database",
+                      "zep"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T02:26:30.668Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Tutorials"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Grounding RAG Applications Workshop",
+                  "description": "Hands-on RAG chatbot + travel planning agents with JavaScript and Elasticsearch.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Grounding RAG Applications with JavaScript, Langchain and Elasticsearch @ Webdevcon NL",
+                    "homepage": null,
+                    "id": 945963030,
+                    "language": "CSS",
+                    "license": "Apache-2.0",
+                    "last_commit": "2025-12-17T17:53:49Z",
+                    "open_issues": 0,
+                    "owner": "carlyrichmond",
+                    "repo": "webdevcon-grounding-rag-applications-workshop",
+                    "stars": 42,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T02:26:30.668Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Workshops"
+            }
+          ],
+          "description": "A compact list of tutorials, workshops, blogs, and case studies you can keep growing over time.",
+          "node_type": "group",
+          "title": "📖 Additional Resources"
         }
       ],
       "title": "🌟 Community Projects"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Ava WhatsApp Agent Course",
-          "description": "Build a WhatsApp agent with voice processing, image generation, and long-term memory using LangGraph.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Meet Ava, the WhatsApp Agent",
-            "homepage": null,
-            "id": 904639064,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-10-20T19:12:20Z",
-            "open_issues": 7,
-            "owner": "neural-maze",
-            "repo": "ava-whatsapp-agent-course",
-            "stars": 1679,
-            "topics": [
-              "agent",
-              "agent-based",
-              "agentic-workflow",
-              "agents",
-              "stt",
-              "tts",
-              "vector-database"
-            ]
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        }
-      ],
-      "title": "Courses"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "GenAI Agents",
-          "description": "A collection of agent implementation examples and patterns.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.",
-            "homepage": "https://diamant-ai.com",
-            "id": 854807707,
-            "language": "Jupyter Notebook",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-01T10:42:54Z",
-            "open_issues": 24,
-            "owner": "NirDiamant",
-            "repo": "GenAI_Agents",
-            "stars": 24442,
-            "topics": [
-              "agentic-ai",
-              "agents",
-              "ai",
-              "ai-agents",
-              "autonomous-agents",
-              "genai",
-              "generative-ai",
-              "langchain",
-              "langgraph",
-              "llm",
-              "llms",
-              "machine-learning",
-              "mcp",
-              "multi-agent",
-              "multi-agent-systems",
-              "openai",
-              "python",
-              "rag",
-              "tutorials"
-            ]
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Generative AI",
-          "description": "Comprehensive Generative AI resource hub covering roadmaps, LangChain/LangGraph projects, RAG, multi-agent patterns, MCP, and interview/coding prep.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and coding preparation.",
-            "homepage": "https://aimlcompanion.ai/",
-            "id": 740930524,
-            "language": "Jupyter Notebook",
-            "license": "MIT",
-            "last_commit": "2026-09-30T12:15:11Z",
-            "open_issues": 0,
-            "owner": "genieincodebottle",
-            "repo": "generative-ai",
-            "stars": 2643,
-            "topics": [
-              "agentic-ai",
-              "agentic-framework",
-              "claude",
-              "gemini",
-              "genai",
-              "genai-usecase",
-              "generative-ai",
-              "interview-questions",
-              "langchain",
-              "langgraph",
-              "large-language-model",
-              "llm-agent",
-              "llm-evaluation",
-              "mcp",
-              "model-context-protocol",
-              "multimodal",
-              "n8n",
-              "n8n-workflow",
-              "openai-api",
-              "retrieval-augmented-generation"
-            ]
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        }
-      ],
-      "title": "Examples"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "RAG Techniques",
-          "description": "Several RAG implementations and step-by-step walkthroughs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.",
-            "homepage": "https://diamant-ai.com",
-            "id": 828268839,
-            "language": "Jupyter Notebook",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-21T10:54:13Z",
-            "open_issues": 6,
-            "owner": "NirDiamant",
-            "repo": "RAG_Techniques",
-            "stars": 29658,
-            "topics": [
-              "agentic-rag",
-              "ai",
-              "embeddings",
-              "generative-ai",
-              "gpt",
-              "langchain",
-              "llama-index",
-              "llm",
-              "llms",
-              "machine-learning",
-              "nlp",
-              "openai",
-              "python",
-              "rag",
-              "retrieval-augmented-generation",
-              "semantic-search",
-              "tutorials",
-              "vector-database"
-            ]
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Agent Memory Techniques",
-          "description": "30 notebooks on agent memory: vector stores, knowledge graphs, episodic and semantic memory, Mem0, MemGPT/Letta, Zep, and Graphiti.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, MemGPT, Mem0, Letta, Zep, Graphiti, LoCoMo benchmarks, and production patterns.",
-            "homepage": "https://diamantai.substack.com/",
-            "id": 1230280405,
-            "language": "Jupyter Notebook",
-            "license": "Apache-2.0",
-            "last_commit": "2026-09-21T10:54:20Z",
-            "open_issues": 2,
-            "owner": "NirDiamant",
-            "repo": "Agent_Memory_Techniques",
-            "stars": 1083,
-            "topics": [
-              "agent-memory",
-              "ai-agents",
-              "anthropic",
-              "episodic-memory",
-              "generative-ai",
-              "graphiti",
-              "knowledge-graph",
-              "langchain",
-              "letta",
-              "llm",
-              "llm-agents",
-              "llm-memory",
-              "mem0",
-              "memgpt",
-              "openai",
-              "python",
-              "rag",
-              "semantic-memory",
-              "vector-database",
-              "zep"
-            ]
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        }
-      ],
-      "title": "Tutorials"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Grounding RAG Applications Workshop",
-          "description": "Hands-on RAG chatbot + travel planning agents with JavaScript and Elasticsearch.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Grounding RAG Applications with JavaScript, Langchain and Elasticsearch @ Webdevcon NL",
-            "homepage": null,
-            "id": 945963030,
-            "language": "CSS",
-            "license": "Apache-2.0",
-            "last_commit": "2025-12-17T17:53:49Z",
-            "open_issues": 0,
-            "owner": "carlyrichmond",
-            "repo": "webdevcon-grounding-rag-applications-workshop",
-            "stars": 42,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T02:26:30.668Z"
-        }
-      ],
-      "title": "Workshops"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:14:08.673Z",
+    "last_updated": "2026-10-03T04:32:53.639Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of the LangChain + LangGraph ecosystem: concepts, projects, tools, templates, and guides for LLM & multi-agent apps.",
